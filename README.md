@@ -24,11 +24,11 @@ This project demonstrates:
 
 ---
 
-## Extended Features (Added to Make Project Original)
+## Extended Features
 - Account gets **locked after 3 incorrect PIN attempts**
 - Transaction logs stored using **ArrayList**
-- Denomination check (optional)
-- Ability to add multiple accounts (optional)
+- Denomination check
+- Ability to add multiple accounts
 - Transaction time-stamp feature
 
 ---
